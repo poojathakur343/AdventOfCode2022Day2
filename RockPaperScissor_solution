@@ -2579,7 +2579,7 @@ select id
 select sum(result) as score
   from data
 ;
---11873
+--solution: 11873
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -2642,7 +2642,7 @@ select id
 select sum(points) as score
   from score_play1
 ;
---12014
+--solution: 12014
 
 
 --remove the table
